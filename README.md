@@ -1,4 +1,18 @@
 
+#install git
+
+git clone https://github.com/ewinz19/ytdownload.git
+
+
+cd ytdownload
+
+
+unzip termuxyt.zip
+
+
+sh termuxyt/install.sh
+
+
 
 #install manual
 
